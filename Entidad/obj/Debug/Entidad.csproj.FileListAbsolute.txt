@@ -1,0 +1,6 @@
+C:\Users\anton\OneDrive\Escritorio\New folder\Entidad\bin\Debug\Entidad.dll
+C:\Users\anton\OneDrive\Escritorio\New folder\Entidad\bin\Debug\Entidad.pdb
+C:\Users\anton\OneDrive\Escritorio\New folder\Entidad\obj\Debug\Entidad.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Escritorio\New folder\Entidad\obj\Debug\Entidad.dll
+C:\Users\anton\OneDrive\Escritorio\New folder\Entidad\obj\Debug\Entidad.pdb
+C:\Users\anton\OneDrive\Escritorio\New folder\Entidad\obj\Debug\Entidad.csproj.AssemblyReference.cache

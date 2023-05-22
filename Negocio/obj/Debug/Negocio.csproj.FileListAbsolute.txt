@@ -1,0 +1,11 @@
+C:\Users\anton\OneDrive\Escritorio\New folder\Negocio\bin\Debug\Negocio.dll
+C:\Users\anton\OneDrive\Escritorio\New folder\Negocio\bin\Debug\Negocio.pdb
+C:\Users\anton\OneDrive\Escritorio\New folder\Negocio\bin\Debug\Datos.dll
+C:\Users\anton\OneDrive\Escritorio\New folder\Negocio\bin\Debug\Entidad.dll
+C:\Users\anton\OneDrive\Escritorio\New folder\Negocio\bin\Debug\Datos.pdb
+C:\Users\anton\OneDrive\Escritorio\New folder\Negocio\bin\Debug\Entidad.pdb
+C:\Users\anton\OneDrive\Escritorio\New folder\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Escritorio\New folder\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Escritorio\New folder\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\anton\OneDrive\Escritorio\New folder\Negocio\obj\Debug\Negocio.dll
+C:\Users\anton\OneDrive\Escritorio\New folder\Negocio\obj\Debug\Negocio.pdb

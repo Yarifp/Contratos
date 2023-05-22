@@ -1,0 +1,9 @@
+C:\Users\anton\OneDrive\Escritorio\New folder\Datos\bin\Debug\Datos.dll
+C:\Users\anton\OneDrive\Escritorio\New folder\Datos\bin\Debug\Datos.pdb
+C:\Users\anton\OneDrive\Escritorio\New folder\Datos\bin\Debug\Entidad.dll
+C:\Users\anton\OneDrive\Escritorio\New folder\Datos\bin\Debug\Entidad.pdb
+C:\Users\anton\OneDrive\Escritorio\New folder\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Escritorio\New folder\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Escritorio\New folder\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\Users\anton\OneDrive\Escritorio\New folder\Datos\obj\Debug\Datos.dll
+C:\Users\anton\OneDrive\Escritorio\New folder\Datos\obj\Debug\Datos.pdb
